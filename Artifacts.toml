@@ -1,0 +1,103 @@
+[[teensy_loader_cli]]
+arch = "aarch64"
+git-tree-sha1 = "042116b0a52c860ece9f28739b42209450ad4921"
+libc = "glibc"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "64b6f2b6c1eaca9050640a227df6d2702943b18c98721e136a9e3de40ca90375"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.aarch64-linux-gnu.tar.gz"
+[[teensy_loader_cli]]
+arch = "aarch64"
+git-tree-sha1 = "08ddd16d392f08f40c0ab20f8cbfa51e63a8e7a8"
+libc = "musl"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "d93090f13db9084aa702f0486e4516027fb983ee9f1131ed06bdf1e39f05bb79"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.aarch64-linux-musl.tar.gz"
+[[teensy_loader_cli]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "05772c3377d2f7f0d43003edf1bd8a1552da22e0"
+libc = "glibc"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "4c33704ebfdfb1ab89e89bdda489477d012ac7fd94da3bddbdb9288712d3a856"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[teensy_loader_cli]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "17a420eee0c17e1c4150a70e900dd5c8850323c3"
+libc = "musl"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "8abf6a848d6736e6aa8d8bdc011540c9d9852d31c0c51c87361a4fb3084f7d08"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.armv6l-linux-musleabihf.tar.gz"
+[[teensy_loader_cli]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "20c32a341839815cd99405f30e33992207e25bb3"
+libc = "glibc"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "5b1b79b5767527bf4e751d3b2d303fcf0654b03eb6caffedaa8c79efdd2ccca7"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[teensy_loader_cli]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2e5e45040bb02cd62763e7415b6ebd0e045757db"
+libc = "musl"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "da7ff578d98f535600b835d6fe74709ee8fa7bf09d606124fdeed07fcd1a9537"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.armv7l-linux-musleabihf.tar.gz"
+[[teensy_loader_cli]]
+arch = "i686"
+git-tree-sha1 = "a8cdf1e96a339521a711ffec087d0ed87722a02b"
+libc = "glibc"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "2dca32adb892c00b48c6cef645ef0a221193be72b5827f8811588caa1716a2a1"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.i686-linux-gnu.tar.gz"
+[[teensy_loader_cli]]
+arch = "i686"
+git-tree-sha1 = "1fd121562c80792afbd26a6fdf258cc4e597487d"
+libc = "musl"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "70d13e51edef63e3feff54bac84058a5f7f8ccdc878b767b73da9f5fcd2e168a"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.i686-linux-musl.tar.gz"
+[[teensy_loader_cli]]
+arch = "powerpc64le"
+git-tree-sha1 = "587e48e19a991ca8cdf525b13bf3ff30d005e468"
+libc = "glibc"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "01bc9a34635f3418acad6b637e9d84119f730bb31c7d60743f389e9aa1b6f35e"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.powerpc64le-linux-gnu.tar.gz"
+[[teensy_loader_cli]]
+arch = "x86_64"
+git-tree-sha1 = "004ba168f4c23c1af7c712711f2fb4e18fc19130"
+libc = "glibc"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "a601583bbe5274ce13ca471dea202928dc462e1324b88f2ceeb25f4164972c84"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.x86_64-linux-gnu.tar.gz"
+[[teensy_loader_cli]]
+arch = "x86_64"
+git-tree-sha1 = "23805e1079d329526a8a3b876ca239cab857a308"
+libc = "musl"
+os = "linux"
+
+    [[teensy_loader_cli.download]]
+    sha256 = "bf8d6f7923f5090122e9e754728d58d3ff13a973f4c7d1a8cade226bd702589a"
+    url = "https://github.com/JuliaBinaryWrappers/teensy_loader_cli_jll.jl/releases/download/teensy_loader_cli-v2.2.0+0/teensy_loader_cli.v2.2.0.x86_64-linux-musl.tar.gz"
